@@ -79,12 +79,13 @@ After completing my 12th grade, I knew exactly what I wanted to do. I embarked o
 ## 🌟 Featured Projects
 
 ### 🌐 Test Buddy
-Brief description of your awesome Android app or web project
+Test Buddy is an AI-powered learning platform designed to help students practice smarter, revise faster, and perform better in exams. It works seamlessly across web and mobile, keeping all your quizzes, progress, and learning data perfectly synced in real time.
+Whether you’re creating quizzes, improving vocabulary, or tracking recent attempts, Test Buddy provides a smooth and intuitive experience on both desktop and Android devices.
 
 **Tech Stack:** React, Node.js, Firestore
 
 ### 📱 Test Buddy Android App
-Brief description of another impressive project
+Same app built for android phone
 
 **Tech Stack:** Android, Flutter, Firebase
 
