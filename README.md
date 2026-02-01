@@ -53,22 +53,6 @@ After completing my 12th grade, I knew exactly what I wanted to do. I embarked o
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBarala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushBarala&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushBarala&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Contribution Graph
 
@@ -83,6 +67,7 @@ Test Buddy is an AI-powered learning platform designed to help students practice
 Whether you’re creating quizzes, improving vocabulary, or tracking recent attempts, Test Buddy provides a smooth and intuitive experience on both desktop and Android devices.
 
 **Tech Stack:** React, Node.js, Firestore
+**🔗 [Visit Test Buddy](https://mytestbuddy.web.app)**
 
 ### 📱 Test Buddy Android App
 Same app built for android phone
