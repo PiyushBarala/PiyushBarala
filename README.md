@@ -54,13 +54,7 @@ After completing my 12th grade, I knew exactly what I wanted to do. I embarked o
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushBarala&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 🌟 Featured Projects
+ 🌟 Featured Projects
 
 ### 🌐 Test Buddy
 Test Buddy is an AI-powered learning platform designed to help students practice smarter, revise faster, and perform better in exams. It works seamlessly across web and mobile, keeping all your quizzes, progress, and learning data perfectly synced in real time.
@@ -78,7 +72,7 @@ Same app built for android phone
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/i-am-piyushbarala)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-piyushbarala)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CasualPiyush)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatpiyush9799@zohomail.in)
 
